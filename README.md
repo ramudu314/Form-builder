@@ -1,3 +1,31 @@
+# React Form Builder 🛠️
+
+A drag-and-drop form builder with responsive previews, dark mode, and template support.
+
+[![Live Demo]]
+![React](https://img.shields.io/badge/React-18.2-blue)
+![Tailwind](https://img.shields.io/badge/Tailwind-3.3-purple)
+
+![Form Builder Screenshot](./public/screenshot.png)
+
+## Features ✨
+
+- Drag-and-drop form components
+- Responsive preview (Desktop/Tablet/Mobile)
+- Dark/Light mode toggle
+- 10+ form field types
+- Save/share forms
+- Pre-built templates
+- Real-time property editing
+
+## Technologies Used 🛠️
+
+- React 18
+- Tailwind CSS
+- Font Awesome Icons
+- ECharts for analytics
+- React DnD (Drag-and-Drop)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
